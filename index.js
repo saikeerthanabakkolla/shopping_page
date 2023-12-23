@@ -11,10 +11,10 @@ const productTitleElement3 = document.getElementById("product-title3");
 
 
 menButtonElement.addEventListener("click", function () {
-    image1Element.src = "https://img.freepik.com/free-photo/indian-man-wear-traditional-clothes-with-white-scarf-posed-outdoor_627829-1734.jpg";
+    image1Element.src = "https://tinypic.host/images/2023/12/23/beach.jpeg";
     image2Element.src = "https://img.freepik.com/free-photo/young-man-posing-casually-white-wall_1157-48198.jpg";
     image3Element.src = "https://img.freepik.com/free-photo/two-indian-stylish-mans-friends-traditional-clothes-posed-outdoor-talk-laugh_627829-12656.jpg";
-    productTitleElement1.textContent = "Blue-traditional-kurthi";
+    productTitleElement1.textContent = "White stylish background";
     productTitleElement2.textContent = "Single-Yellow-kurthi";
     productTitleElement3.textContent = "yellow and black combo kurthi";
 
